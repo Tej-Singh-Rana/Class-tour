@@ -1,5 +1,5 @@
 #!/bin/python3
-
+#python3 if-else condition
 
 value=input("What is your value: ")
 
