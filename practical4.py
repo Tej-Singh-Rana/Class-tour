@@ -12,6 +12,6 @@ if service <= year:
 elif service > year:
         print("Net Bonus Calculated : ")
         netbonus=salary*bonus
-        print(netbonus)
+        print("%.2f"%netbonus)
         print("Total amount included bonus : ")
-        print(netbonus+salary)
+        print("%.2f"%(netbonus+salary))
