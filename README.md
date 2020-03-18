@@ -1,3 +1,3 @@
-# Class-test
+# Class-tour
 - daily dose
 
